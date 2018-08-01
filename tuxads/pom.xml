@@ -1,0 +1,28 @@
+<project>
+
+    <repositories>
+
+        <repository>
+            <id>tuxads</id>
+            <url>http://xuggle.googlecode.com/svn/trunk/repo/share/java/</url>
+        </repository>
+
+    </repositories>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>com.android.volley</groupId>
+            <artifactId>volley</artifactId>
+            <version>1.1.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.squareup.picasso</groupId>
+            <artifactId>picasso</artifactId>
+            <version>2.71828</version>
+        </dependency>
+
+    </dependencies>
+
+</project>
